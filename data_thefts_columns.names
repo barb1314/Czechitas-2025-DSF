@@ -1,0 +1,57 @@
+Title: Communities and Crime
+
+Abstract: Communities within the United States. The data combines socio-economic data 
+from the 1990 US Census, and crime data from the 1995 FBI UCR.
+
+-----------------------------------------------------------------------------------------
+
+Data Set Characteristics:  Multivariate
+Number of Instances: 1994
+Area: Social
+Date Donated: 2009-07-13
+
+-----------------------------------------------------------------------------------------
+
+Source:
+
+Creator: Michael Redmond (redmond 'at' lasalle.edu); Computer Science; La Salle 
+University; Philadelphia, PA, 19141, USA
+-- culled from 1990 US Census, 1995 US FBI Uniform Crime Report, 1990 US Law 
+Enforcement Management and Administrative Statistics Survey, available from ICPSR at U 
+of Michigan.
+-- Donor: Michael Redmond (redmond 'at' lasalle.edu); Computer Science; La Salle 
+University; Philadelphia, PA, 19141, USA
+-- Date: July 2009
+
+-----------------------------------------------------------------------------------------
+
+
+Data Set Attributes Information:
+
+pctBlack: percentage of population that is african american (numeric - decimal)
+pctWhite: percentage of population that is caucasian (numeric - decimal)
+
+
+pctMaleDivorc: percentage of males who are divorced (numeric - decimal)
+pctFemDivorc: percentage of females who are divorced (numeric - decimal)
+pctAllDivorc: percentage of population who are divorced (numeric - decimal)
+
+
+pct2Par: percentage of families (with kids) that are headed by two parents (numeric - decimal)
+pctKids2Par: percentage of kids in family housing with two parents (numeric - decimal)
+pct12.17w2Par: percent of kids age 12-17 in two parent households (numeric - decimal)
+
+
+kidsBornNevrMarr: number of kids born to never married (numeric - decimal)
+pctKidsBornNevrMarr: percentage of kids born to never married (numeric - decimal)
+
+numForeignBorn: total number of people known to be foreign born (numeric - decimal)
+pctForeignBorn: percent of people foreign born (numeric - decimal)
+
+pctImmig.10: percentage of _immigrants_ who immigated within last 10 years (numeric - decimal)
+popDensity: population density in persons per square mile (numeric - decimal)
+persUrban: number of people living in areas classified as urban (numeric - decimal)
+pctUsePubTrans: percent of people using public transit for commuting (numeric - decimal)
+
+robbbPerPop: The per capita robbery crimes variable was calculated using population and the sum of 
+robberies in the United States cities.
